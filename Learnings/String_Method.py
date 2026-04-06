@@ -1,2 +1,2 @@
 course = 'python for beginners'
-print('Python'in course)
+print(course.replace("beginners", "Absolute beginners"))
