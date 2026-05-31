@@ -1,0 +1,13 @@
+1. Start
+2. Input student name
+3. Input registration number
+4. Create empty list called MARKS
+5. Repeat 5 times;
+	i)Input marks
+	ii)Validate mark
+	iii)Store in list
+6. Calculate total
+7. Calculate average
+8. Determine grade
+9. Display results
+10. End
