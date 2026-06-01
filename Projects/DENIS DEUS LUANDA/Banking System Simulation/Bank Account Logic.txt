@@ -1,0 +1,19 @@
+Start
+  ↓
+Create Account
+  ↓
+Display Menu
+  ↓
+1 Deposit
+2 Withdraw
+3 Check Balance
+4 Exit
+  ↓
+Perform Selected Action
+  ↓
+Return to Menu
+  ↓
+Exit?
+  ↓
+No → Repeat
+Yes → End
