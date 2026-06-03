@@ -1,0 +1,14 @@
+User chooses Add Book
+          ↓
+Enter ID
+Enter Title
+Enter Author
+Enter Year
+          ↓
+Create Dictionary
+          ↓
+Add Dictionary to List
+          ↓
+Save to JSON
+          ↓
+Success Message

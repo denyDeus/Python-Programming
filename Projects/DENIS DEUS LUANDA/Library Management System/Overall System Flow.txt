@@ -1,0 +1,35 @@
+Program Starts
+       ↓
+Load JSON File
+       ↓
+Display Menu
+       ↓
+ ┌─────────────┐
+ │ 1 Add Book  │
+ └──────┬──────┘
+        ↓
+ Save JSON
+
+ ┌────────────────┐
+ │ 2 Search Book  │
+ └──────┬─────────┘
+        ↓
+ Display Result
+
+ ┌────────────────┐
+ │ 3 Delete Book  │
+ └──────┬─────────┘
+        ↓
+ Save JSON
+
+ ┌────────────────┐
+ │4 Display Books │
+ └──────┬─────────┘
+        ↓
+ Show All Books
+
+ ┌─────────────┐
+ │ 5 Exit      │
+ └──────┬──────┘
+        ↓
+ Program Ends
