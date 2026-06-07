@@ -1,0 +1,36 @@
+START
+
+Import Counter
+Import string
+
+Open text file
+
+Read file contents
+
+Count original characters
+
+Convert text to lowercase
+
+Remove punctuation
+
+Count cleaned characters
+
+Count lines
+
+Split text into words
+
+Count words
+
+Use Counter to get word frequencies
+
+Display:
+    Number of lines
+    Number of words
+    Original character count
+    Cleaned character count
+
+Display frequency of each word
+
+Display top 5 most common words
+
+END
