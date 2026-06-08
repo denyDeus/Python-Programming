@@ -1,0 +1,23 @@
+START
+   |
+Read CSV file
+   |
+Load into DataFrame
+   |
+Calculate Mean
+   |
+Calculate Median
+   |
+Calculate Highest Score
+   |
+Calculate Lowest Score
+   |
+Display Results
+   |
+Generate Bar Chart
+   |
+Generate Pie Chart
+   |
+Generate Histogram
+   |
+END

@@ -1,0 +1,21 @@
+student_id,name,grade_level,math,science,english,social_studies,attendance_pct,extracurricular
+S001,Olivia Johnson,10,88,92,85,90,95,Debate Club
+S002,Ethan Martinez,11,76,81,79,75,88,Basketball
+S003,Ava Brown,12,94,89,91,93,98,Robotics
+S004,Noah Davis,10,67,72,70,68,82,Drama Club
+S005,Isabella Miller,11,85,87,88,84,91,Math Team
+S006,Lucas Wilson,12,78,74,80,77,86,Science Club
+S007,Mia Anderson,10,90,94,92,89,97,Student Council
+S008,Liam Thomas,11,82,79,84,81,90,Art Club
+S009,Charlotte Lee,12,95,96,93,94,99,Music
+S010,James Harris,10,71,69,72,70,85,Football
+S011,Amelia Clark,11,88,90,86,87,93,Chess Club
+S012,Benjamin Lewis,12,83,85,82,80,89,Track
+S013,Evelyn Walker,10,92,91,94,90,96,Volleyball
+S014,Henry Hall,11,74,76,73,71,84,Baseball
+S015,Sophia Allen,12,89,88,90,92,94,Environmental Club
+S016,Daniel Young,10,66,70,68,69,80,Guitar Club
+S017,Harper King,11,91,93,89,91,97,Science Olympiad
+S018,Jackson Wright,12,79,83,78,76,88,Robotics
+S019,Abigail Scott,10,84,86,87,85,92,Band
+S020,Elijah Green,11,77,75,80,78,87,Social Service
