@@ -1,0 +1,34 @@
+START
+   │
+   ▼
+Main Menu
+   │
+   ├── Register
+   │      │
+   │      ▼
+   │   Save Student
+   │
+   ├── Login
+   │      │
+   │      ▼
+   │  Student Menu
+   │      │
+   │      ├── View Courses
+   │      ├── Enroll
+   │      ├── View Enrolled
+   │      └── Logout
+   │
+   ├── Admin Login
+   │      │
+   │      ▼
+   │   Admin Menu
+   │      │
+   │      ├── Add Course
+   │      ├── Remove Course
+   │      ├── View Students
+   │      └── Report
+   │
+   └── Exit
+          │
+          ▼
+         END

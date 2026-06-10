@@ -1,0 +1,12 @@
+Username
+Password
+
+↓
+
+Check database
+
+↓
+
+Correct?
+     YES → Student Menu
+     NO  → Invalid Login
