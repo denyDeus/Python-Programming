@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "id": "001",
+        "title": "Python Programming",
+        "author": "Brian Muchake",
+        "year": 1990
+    },
+    {
+        "id": "002",
+        "title": "Data Analysis with Python",
+        "author": "Jenny Williamson",
+        "year": 2005
+    }
+]
